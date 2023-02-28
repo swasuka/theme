@@ -173,10 +173,10 @@
   visibility: hidden !important;
 }
 
-.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-3X7KbA::-webkit-scrollbar,
-.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-3X7KbA::-webkit-scrollbar-corner,
-.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-3X7KbA::-webkit-scrollbar-thumb,
-.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-3X7KbA::-webkit-scrollbar-track {
+.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar,
+.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-corner,
+.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-thumb,
+.scrollerThemed-2oenus.themeHidden-2yP93k .scroller-2FKFPG::-webkit-scrollbar-track {
   display: none !important;
 }
 
@@ -220,7 +220,7 @@
 #app-mount .container-2McqkF,
 #app-mount .container-enaOkj,
 #app-mount .container-8Futzw,
-#app-mount .contextMenu-HLZMGh:not(.scroller-3X7KbA),
+#app-mount .contextMenu-HLZMGh:not(.scroller-2FKFPG),
 #app-mount .emojiPicker-6YCk8a,
 #app-mount .messagesPopoutWrap-1MQ1bW,
 #app-mount .modal-2RrUKJ:not(.slide-2pHaq5),
@@ -232,7 +232,7 @@
 #app-mount .quickswitcher-pKcM9U,
 #app-mount .root-1gCeng.wrapper-2ZbzR9,
 #app-mount .modalRoot-1Kx4Hb,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-1Pkza4,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_bVAAt,
 #app-mount .popoutContainer-2wbmiM,
 #app-mount .root-1gCeng:not(.modal-3Crloo),
 #app-mount .container-2O1UgZ,
@@ -247,7 +247,7 @@
 #app-mount .container-2McqkF:before,
 #app-mount .container-enaOkj:before,
 #app-mount .container-8Futzw:before,
-#app-mount .contextMenu-HLZMGh:not(.scroller-3X7KbA):before,
+#app-mount .contextMenu-HLZMGh:not(.scroller-2FKFPG):before,
 #app-mount .emojiPicker-6YCk8a:before,
 #app-mount .messagesPopoutWrap-1MQ1bW:before,
 #app-mount .modal-2RrUKJ:not(.slide-2pHaq5):before,
@@ -259,7 +259,7 @@
 #app-mount .quickswitcher-pKcM9U:before,
 #app-mount .root-1gCeng.wrapper-2ZbzR9:before,
 #app-mount .modalRoot-1Kx4Hb:before,
-#app-mount .container-3JTnYm.thin-1ybCId._bVAscrollerBase-At:before,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_bVAAt:before,
 #app-mount .popoutContainer-2wbmiM:before,
 #app-mount .root-1gCeng:not(.modal-3Crloo):before,
 #app-mount .container-2O1UgZ:before,
@@ -480,10 +480,10 @@
 #app-mount .guilds-2JjMmN {
   background-color: transparent;
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4 {
+#app-mount .guilds-2JjMmN .scrollerBase-_bVAAt {
   background-color: rgba(0, 0, 0, var(--serverlist-brightness));
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4::-webkit-scrollbar {
+#app-mount .guilds-2JjMmN .scrollerBase-_bVAAt::-webkit-scrollbar {
   display: none;
 }
 
