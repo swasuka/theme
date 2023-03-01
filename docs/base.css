@@ -533,7 +533,7 @@
   color: var(--text-normal);
 }
 #app-mount .scroller-3X7KbA {
-  background-color:transparent!important;
+  background-color: rgba(0, 0, 0, var(--serverlist-brightness));
 }
 
 #app-mount .sidebar-1tnWFu {
