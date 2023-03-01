@@ -532,6 +532,9 @@
   background: var(--white-double);
   color: var(--text-normal);
 }
+#app-mount .scroller-3X7KbA {
+  background-color:transparent!important;
+}
 
 #app-mount .sidebar-1tnWFu {
   border-radius: 0;
@@ -541,10 +544,6 @@
 #app-mount .sidebar-1tnWFu .privateChannels-oVe7HL,
 #app-mount .sidebar-1tnWFu .scroller-WSmht3 {
   background-color: transparent;
-}
-
-#app-mount .container-1NXEtd {
- background: var(--bg-overlay-3,var(--background-secondary));
 }
 
 #app-mount .sidebar-1tnWFu [role=list] > div[style="width: 100%; height: 84px; visibility: hidden;"] {
