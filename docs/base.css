@@ -838,7 +838,7 @@
 }
 
 #app-mount [class*=userPopout][aria-modal=true] .userPopoutInner-1hXSeY .userProfileInner-3F03PX .userProfileInnerThemedNonPremium-1gT-zY {
-  background-color: rgba(15, 15, 15);
+  rgba(0, 0, 0, var(--right-brightness));
 } /*lol?*/
 
 #app-mount [class*=userPopout][aria-modal=true] .quickMessage-1yeL4E {
