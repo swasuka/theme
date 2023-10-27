@@ -196,7 +196,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 10px !important;
+  border-radius: 5px !important;
   border: none !important;
   background-clip: content-box !important;
   background: var(--scrollbar-colour) !important;
