@@ -114,13 +114,12 @@
 .backdrop-2ByYRN,
 .focusLock-2tveLW > *,
 .peopleColumn__51df3,
+.container-1oAagU,
+.scroller__3d071,
 .flex-2S1XBF {
   background-color: var(--dark-background) !important;
 }
 
-.scroller__3d071 {
-  background-color: #3a3a3b
-}
 
 /* LIGHT BACKGROUND */
 .flex-2S1XBF.root-SR8cQa,
@@ -189,8 +188,4 @@
 .container-1oAagU > div > div,
 .imageDetails-1t6Zms {
   background-color: transparent;
-}
-
-.container-1oAagU > div > div {
-  border: #666 solid 1px;
 }
