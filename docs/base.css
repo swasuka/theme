@@ -105,7 +105,6 @@
 .focused-3qFvc8,
 .winButton-3UMjdg:nth-child(3):hover,
 .changeButton-3QdaoH,
-.scroller__3d071,
 .overlayBackground__86b78,
 .root_a28985 {
   background-color: var(--normal-background) !important;
@@ -115,6 +114,7 @@
 .backdrop-2ByYRN,
 .focusLock-2tveLW > *,
 .peopleColumn__51df3,
+.scroller__3d071,
 .flex-2S1XBF {
   background-color: var(--dark-background) !important;
 }
