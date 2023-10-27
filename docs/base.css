@@ -622,6 +622,11 @@
 #app-mount .chat-9g_3Xj {
   background: rgba(0, 0, 0, var(--middle-brightness));
 }
+
+#app-mount .container__93316 {
+  background: rgba(0, 0, 0, var(--middle-brightness));
+}
+
 #app-mount .messages-3amgkR {
   background-color: transparent;
   text-shadow: 0 2px 5px rgba(0, 0, 0, var(--text-shadow));
