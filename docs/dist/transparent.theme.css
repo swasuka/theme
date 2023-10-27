@@ -17,6 +17,12 @@
     --dark-opacity: 0.5;
     --background-url: url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png');
     --background-color: 0, 0, 0;
+
+    --gradient-primary: 208, 21, 48;
+    --gradient-secondary: 10, 10, 11;
+    --link-colour: #d01530;
+    --scrollbar-colour: rgba(255,255,255,0.05);
+    --gradient-direction: 180deg;
 }
 
 /* BACKGROUND */

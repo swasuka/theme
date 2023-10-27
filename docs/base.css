@@ -198,3 +198,10 @@
 .container-1oAagU > div > div {
   border: #666 solid 1px;
 }
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px !important;
+  border: none !important;
+  background-clip: content-box !important;
+  background: var(--scrollbar-colour) !important;
+}
