@@ -1,0 +1,41 @@
+/**
+ * @name dont care
+*/
+
+@import url("https://swasuka.github.io/theme/new_base.css");
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
+
+
+/* DEFINE MAIN VARIABLES */
+.theme-dark {
+    color of the Discord window name
+    default : rgb(255, 255, 255) */
+    --window-name-color: rgb(255, 255, 255);
+    /*
+    opacity, but lighter
+    default : 0.2 */
+    --light-opacity: 0;
+    /*
+    opacity used everywhere to make this glass effect 
+    default : 0.5 */
+    --opacity: 0.2;
+    /*
+    opacity, but darker
+    default : 0.75 */
+    --dark-opacity: 0.75;
+    /*
+    it's just the Discord background URL, it has to be a direct link (ending with .png, .jpg, .gif)
+    default : url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png') */
+    --background-url: url('https://cdn.discordapp.com/attachments/696040243748536401/850445513542205531/1-IrFMpUu.png');
+    /*
+    background color used for opacity
+    default : 0, 0, 0 */
+    --background-color: 0, 0, 0;
+}
+
+/* BACKGROUND */
+.bg__7adbf {
+    background: var(--background-url) !important;
+    background-size: cover !important;
+}
