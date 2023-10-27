@@ -114,9 +114,12 @@
 .backdrop-2ByYRN,
 .focusLock-2tveLW > *,
 .peopleColumn__51df3,
-.scroller__3d071,
 .flex-2S1XBF {
   background-color: var(--dark-background) !important;
+}
+
+.scroller__3d071 {
+  background-color: var#3a3a3b
 }
 
 /* LIGHT BACKGROUND */
