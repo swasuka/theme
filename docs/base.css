@@ -181,11 +181,20 @@
 }
 
 /* TRANSPARENT */
-.theme-dark .scroller-WSmht3,
+.theme-dark 
 .members-3WRCEx,
 .members-3WRCEx > div > div,
 .container-1oAagU,
 .container-1oAagU > div > div,
 .imageDetails-1t6Zms {
   background-color: transparent;
+}
+
+
+.scroller-WSmht3 {
+  background-color: #FFFFFF
+} /*kill me*/
+
+.container-1oAagU > div > div {
+  border: #666 solid 1px;
 }
